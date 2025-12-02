@@ -56,7 +56,7 @@ El proyecto se desarrolló siguiendo el flujo de trabajo de análisis de datos c
 
 ## 📁 Contenido del Repositorio
 
-1.  `[Tu Nombre de Notebook.ipynb] (Notebook Principal)`: Contiene todo el código fuente del análisis, desde la carga y limpieza de datos hasta el cálculo de todas las métricas, la generación de visualizaciones, y el informe final.
+1.  `TelecomX_LATAM.ipynb`: Contiene todo el código fuente del análisis, desde la carga y limpieza de datos hasta el cálculo de todas las métricas, la generación de visualizaciones, y el informe final.
 2.  `README.md`: Documento actual que presenta la justificación, hallazgos clave, y la recomendación final del análisis.
 
 ---
